@@ -5,4 +5,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\VFS.Models\VFS.Models.csproj" />
+    <ProjectReference Include="..\VFS.Services\VFS.Services.csproj" />
+  </ItemGroup>
+
 </Project>
