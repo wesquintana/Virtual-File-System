@@ -117,10 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CreationSuccess" xml:space="preserve">
-    <value>Creation Successful!</value>
-  </data>
-  <data name="WelcomeMessage" xml:space="preserve">
-    <value>Welcome to VFS 0.0.1</value>
+  <data name="CONNECTION_STRING" xml:space="preserve">
+    <value>server=</value>
   </data>
 </root>

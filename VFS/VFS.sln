@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VFS.Models", "VFS.Models\VF
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VFS.Services", "VFS.Services\VFS.Services.csproj", "{90FDBF74-165B-4E30-BC88-7A96087F2ACE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VFS.Tests", "VFS.Tests\VFS.Tests.csproj", "{CC7BD219-A947-4B20-8FFE-E5FB2C4CF557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VFS.DataAccess", "VFS.DataAccess\VFS.DataAccess.csproj", "{2D385C7D-ED23-4FAD-A82E-9E483ECD8E71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{90FDBF74-165B-4E30-BC88-7A96087F2ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90FDBF74-165B-4E30-BC88-7A96087F2ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90FDBF74-165B-4E30-BC88-7A96087F2ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC7BD219-A947-4B20-8FFE-E5FB2C4CF557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7BD219-A947-4B20-8FFE-E5FB2C4CF557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7BD219-A947-4B20-8FFE-E5FB2C4CF557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7BD219-A947-4B20-8FFE-E5FB2C4CF557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D385C7D-ED23-4FAD-A82E-9E483ECD8E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D385C7D-ED23-4FAD-A82E-9E483ECD8E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D385C7D-ED23-4FAD-A82E-9E483ECD8E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D385C7D-ED23-4FAD-A82E-9E483ECD8E71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
