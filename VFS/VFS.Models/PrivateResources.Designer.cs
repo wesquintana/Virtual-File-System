@@ -61,7 +61,7 @@ namespace VFS.Models {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to server=anotherthing.
+        ///   Looks up a localized string similar to server=fourth thing.
         /// </summary>
         internal static string CONNECTION_STRING {
             get {
